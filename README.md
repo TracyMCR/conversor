@@ -103,13 +103,10 @@ ___
 ### :trophy:  Insignias
 
 <div align="center">
-    <img src="">
+    <img src="/imagenes/cms_files_10224_1671211831Prancheta_8.png">
 </div>
 ___
 
 ### :computer:  Prueba la aplicación
 
-### [Descargar archivo ejecutable Convertidor-1.00.jar](src/version_ejecutable_JAR/Convertidor-1.00.jar)
-
-
-3
+#### [Descargar archivo ejecutable Convertidor-1.00.jar](src/version_ejecutable_JAR/Convertidor-1.00.jar)
